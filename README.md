@@ -141,21 +141,3 @@ AI Systems Founder | Narrative Infrastructure | Advocacy OS
 
 🌍 https://www.artsenvoy.ai
 
-License
-
-Architecture diagrams and documentation are shared for informational purposes.
-All platform code and implementation remain proprietary.
-
-This README will make the repo look:
-
-professional
-
-structured
-
-technical
-
-credible for reviewers
-
-And it doesn't expose your backend code, which is exactly what you want.
-
-If you'd like, I can also show you one small GitHub trick that will make your repo look like it belongs to a serious AI infrastructure project rather than a solo founder repo. It takes about 30 seconds to do.
